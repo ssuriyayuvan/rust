@@ -1,6 +1,6 @@
 // use std::io;
 
-fn main () {
+pub fn variables () {
     // scalar and compound type
     /* 
 
