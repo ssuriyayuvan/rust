@@ -48,9 +48,3 @@ pub fn guessing_game() {
         };
     }
 }
-
-/*
-key to note:-
---> import rand::Rng and std::io for user input
--->
-*/
