@@ -65,6 +65,9 @@ fn main () {
     
     let arr = [100,200,300,400,500,600];  // array declartion
 
+    // arr.len(); // to findouut an length of an array
+
+    println!("the length of array is {}", arr.len());
     // look like for each --> a.iter() is important to note
     for e in arr.iter() {
         println!("Element in array {}", e);
